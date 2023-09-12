@@ -1,16 +1,19 @@
 ### Hi there 👋
+# Welcome to my GitHub profile 👋
 
-<!--
-**ThePolanco/ThePolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a systems engineer with experience in data analysis and a passion for data-related technologies. My primary focus is on using Python, SQL, and statistics to analyze data and build machine learning solutions in big data environments.
 
-Here are some ideas to get you started:
+## Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Systems engineer with a passion for programming and problem-solving.
+- 📊 Data analyst with experience in data manipulation and visualization.
+- 🐍 Python programmer with knowledge in libraries like Pandas, NumPy, and Matplotlib.
+- 📈 Strong foundation in statistics for data analysis and informed decision-making.
+- 🤖 Machine learning enthusiast with experience in building models and algorithms.
+- 📦 Interested in big data processing and analysis.
+
+## Contact
+
+I'd love to connect with you and collaborate on interesting projects! You can find me on LinkedIn: [/in/jeisonpolanco](https://www.linkedin.com/in/jeisonpolanco) or send me an email at polancojeison21@gmail.com.
+
+Thanks for visiting my GitHub profile! 😊
