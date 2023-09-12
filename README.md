@@ -3,7 +3,7 @@
 
 Hello! I'm a systems engineer with experience in data analysis and a passion for data-related technologies. My primary focus is on using Python, SQL, and statistics to analyze data and build machine learning solutions in big data environments.
 
-## Skills and Experience
+## Skills
 
 - 💻 Systems engineer with a passion for programming and problem-solving.
 - 📊 Data analyst with experience in data manipulation and visualization.
