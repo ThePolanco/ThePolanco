@@ -13,7 +13,7 @@ Hello! I'm a systems engineer with experience in data analysis and a passion for
 - 📦 Interested in big data processing and analysis.
 
 ## Knowledge
-    [![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,vscode,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,vscode,java,cpp)](https://skillicons.dev)
 
 ## Contact
 
