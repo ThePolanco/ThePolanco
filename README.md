@@ -12,6 +12,7 @@ Hello! I'm a systems engineer with experience in data analysis and a passion for
 - 🤖 Machine learning enthusiast with experience in building models and algorithms.
 - 📦 Interested in big data processing and analysis.
 
+## Knowledge
     [![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,vscode,java,cpp)](https://skillicons.dev)
 
 ## Contact
