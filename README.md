@@ -19,8 +19,14 @@ Hello! I'm a systems engineer with experience in data analysis and a passion for
   </a>
 </p>
 
-## Contact
-🌐 https://linktr.ee/ThePolanco
-I'd love to connect with you and collaborate on interesting projects! You can find me on LinkedIn: [/in/jeisonpolanco](https://www.linkedin.com/in/jeisonpolanco) or send me an email at polancojeison21@gmail.com.
+## Contact 📬
+
+🌐 **Website:** [https://linktr.ee/ThePolanco](https://linktr.ee/ThePolanco)
+
+I'd love to connect with you and collaborate on interesting projects! You can find me on:
+
+- **LinkedIn:** [/in/jeisonpolanco](https://www.linkedin.com/in/jeisonpolanco) 
+- **Email:** polancojeison21@gmail.com 📧
+
 
 Thanks for visiting my GitHub profile! 😊
