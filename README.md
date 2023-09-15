@@ -26,7 +26,7 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
 
 - **LinkedIn:** [/in/jeisonpolanco](https://www.linkedin.com/in/jeisonpolanco) 
 - **Email:** polancojeison21@gmail.com 📧
-- **Discord** [/dc/Nocturnal](https://discord.com/users/751519009463205999)
+- **Discord:** [/dc/Nocturnal](https://discord.com/users/751519009463205999)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePolanco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=000000&title_color=3498db&icon_color=3498db" height="150" alt="languages" />
