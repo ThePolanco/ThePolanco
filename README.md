@@ -36,4 +36,4 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF4dGJtbzdoa3Iydm93djR1ZGhjM281ZnM1YWtnMTA3Y3RiNWR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="150" alt="Developer">
 </div>
 
-Thanks for visiting my GitHub profile! 😊
+<p align="center">Thanks for visiting my GitHub profile! 😊</p>
