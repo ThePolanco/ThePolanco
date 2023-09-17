@@ -32,5 +32,9 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePolanco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=000000&title_color=3498db&icon_color=3498db" height="150" alt="languages" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF4dGJtbzdoa3Iydm93djR1ZGhjM281ZnM1YWtnMTA3Y3RiNWR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="150" alt="Developer">
 </div>
-
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ThePolanco/count.svg?" class="contador" />
+</div>
+<br>
 <p align="center">Thanks for visiting my GitHub profile! 😊</p>
