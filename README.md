@@ -1,6 +1,6 @@
 #  Hi there - Welcome to my GitHub profile 👋
 
-Hello! I'm a systems engineer with experience in data analysis and a passion for data-related technologies. My primary focus is on using Python, SQL, and statistics to analyze data and build machine learning solutions in big data environments. 
+Hello! I'm a systems engineer with experience in data analysis and a passion for data-related technologies. My primary focus is on using Python, SQL, and statistics to analyze data and build machine learning solutions in big data environments.
 
 ## Skills
 
