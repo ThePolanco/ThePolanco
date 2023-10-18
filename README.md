@@ -14,7 +14,7 @@ Hello! I'm a systems engineer with experience in data analysis and a passion for
 ## Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,vscode,github,java,cpp,git,mongodb,androidstudio,docker,flask,postgres,flutter" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,vscode,bootstrap,github,java,cpp,git,mongodb,androidstudio,docker,flask,postgres,flutter,discord" />
   </a>
 </p>
 
