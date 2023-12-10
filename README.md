@@ -6,7 +6,7 @@ Hello! I'm a systems engineer with experience in data analysis and a passion for
 
 - 💻 Systems engineer with a passion for programming and problem-solving.
 - 📊 Data analyst with experience in data manipulation and visualization.
-- 🐍 Python programmer with knowledge in libraries like Pandas, NumPy, and Matplotlib.
+- 🐍 Python programmer with knowledge in libraries like Scikit-learn, Pandas, NumPy, and Matplotlib.
 - 🔐 Exploring the world of cybersecurity, focused on Information Security Analysis
 - 📈 Strong foundation in statistics for data analysis and informed decision-making.
 - 🤖 Machine learning enthusiast with experience in building models and algorithms.
