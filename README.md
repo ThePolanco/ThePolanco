@@ -42,10 +42,6 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/ThePolanco/ThePolanco/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/316lvhlzd7nmr6g2qcgkabxrg5ge">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316lvhlzd7nmr6g2qcgkabxrg5ge&count=4&unique=false" alt="Spotify recently played"  />
