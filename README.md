@@ -44,7 +44,9 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
 </div>
 <br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ThePolanco/count.svg?" class="contador" />
+  <a href="https://open.spotify.com/user/316lvhlzd7nmr6g2qcgkabxrg5ge">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316lvhlzd7nmr6g2qcgkabxrg5ge&width=600" alt="Spotify recently played"  />
+  </a>
 </div>
 <br>
 <p align="center">Thanks for visiting my GitHub profile! 😊</p>
